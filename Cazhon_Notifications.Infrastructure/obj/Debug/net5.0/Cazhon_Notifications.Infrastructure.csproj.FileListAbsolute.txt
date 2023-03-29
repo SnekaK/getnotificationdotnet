@@ -1,0 +1,15 @@
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\bin\Debug\net5.0\Cazhon_Notifications.Infrastructure.deps.json
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\bin\Debug\net5.0\Cazhon_Notifications.Infrastructure.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\bin\Debug\net5.0\Cazhon_Notifications.Infrastructure.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\bin\Debug\net5.0\Cazhon_Notifications.Core.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\bin\Debug\net5.0\Cazhon_Notifications.Core.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.csproj.AssemblyReference.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.AssemblyInfoInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.AssemblyInfo.cs
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.csproj.CopyComplete
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\refint\Cazhon_Notifications.Infrastructure.dll
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\Cazhon_Notifications.Infrastructure.pdb
+C:\Notification\CazhOnBaseLine\CazhOnBaseLine\Cazhon_Notifications.Infrastructure\obj\Debug\net5.0\ref\Cazhon_Notifications.Infrastructure.dll

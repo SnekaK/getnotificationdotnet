@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Infrastructure\\Cazhon_Notifications.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\Cazhon_Notifications.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\Cazhon_Notifications.Core.csproj",
+        "projectName": "Cazhon_Notifications.Core",
+        "projectPath": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\Cazhon_Notifications.Core.csproj",
+        "packagesPath": "C:\\Users\\ParthasarathiSakthi\\.nuget\\packages\\",
+        "outputPath": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthasarathiSakthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Infrastructure\\Cazhon_Notifications.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Infrastructure\\Cazhon_Notifications.Infrastructure.csproj",
+        "projectName": "Cazhon_Notifications.Infrastructure",
+        "projectPath": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Infrastructure\\Cazhon_Notifications.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ParthasarathiSakthi\\.nuget\\packages\\",
+        "outputPath": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthasarathiSakthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\Cazhon_Notifications.Core.csproj": {
+                "projectPath": "C:\\Notification\\CazhOnBaseLine\\CazhOnBaseLine\\Cazhon_Notifications.Core\\Cazhon_Notifications.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
